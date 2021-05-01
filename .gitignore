@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+ARC/*/.vs/
+ARC/*/*/Debug/
+ARC/*/*/.vs/
